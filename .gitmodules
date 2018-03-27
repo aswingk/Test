@@ -1,0 +1,3 @@
+[submodule "agk"]
+	path = agk
+	url = git@github.com:aswingk/subm.git
